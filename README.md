@@ -1,3 +1,3 @@
 # DiceeApp
-### simple DOM memupulation
-#### attribute memupulation
+### simple DOM manipulation
+#### attribute manipulation
