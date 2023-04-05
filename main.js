@@ -1,0 +1,5 @@
+let randomNumber = Math.floor(Math.random() * 6 + 1)
+let loka = String(randomNumber)
+console.log(typeof(loka))
+document.querySelector(".img1").setAttribute("src", "images/dice"+(Math.floor(Math.random() * 6 + 1)).toString()+".png")
+document.querySelector(".img2").setAttribute("src", "images/dice"+(Math.floor(Math.random() * 6 + 1)).toString()+".png")
